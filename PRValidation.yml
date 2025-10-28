@@ -14,5 +14,5 @@ steps:
   displayName: 'Run a one-line script'
 
 - script: |
-    echo test edit yaml - 1
+    echo test edit yaml - 2
   displayName: 'Run a multi-line script'
