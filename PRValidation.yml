@@ -10,9 +10,9 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world!
+- script: echo Hello, Bjorn!
   displayName: 'Run a one-line script'
 
 - script: |
-    echo test edit yaml - 2
+    echo test edit yaml - 3
   displayName: 'Run a multi-line script'
